@@ -1,8 +1,0 @@
-Files:
-README
-Makefile
-List.java
-ListTest.java
-ListInterface.java
-ListIndexOutOfBoundsException.java
-ListClient.java
