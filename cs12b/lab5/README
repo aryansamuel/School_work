@@ -1,0 +1,10 @@
+Files:
+README
+Makefile
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c
+
+Notes:
+Code assumes line length < 180

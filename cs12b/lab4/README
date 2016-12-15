@@ -1,0 +1,7 @@
+Files:
+README
+Makefile
+charType.c
+
+Notes:
+Code assumes line length < 100
