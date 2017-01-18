@@ -1,7 +1,0 @@
-Files:
-README
-Makefile
-Dictionary.c
-Dictionary.h
-DictionaryTest.c
-DictionaryClient.c
