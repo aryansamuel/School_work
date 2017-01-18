@@ -1,8 +1,1 @@
-Files:
-README
-Makefile
-Sparse.java
-Matrix.java
-List.java
-MatrixTest.java
-ListTest.java
+A simple matrix calculator. Run Sparse.java and use text files for input.
