@@ -1,7 +1,0 @@
-Files:
-README
-Makefile
-Lex.c
-List.c
-List.h
-ListClient.c
